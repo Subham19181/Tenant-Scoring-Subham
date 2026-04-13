@@ -44,7 +44,7 @@ Unlike traditional systems, this protocol does not rely on centralized authoriti
 
 ## 🔗 Deployed Smart Contract Link
 
-(https://stellar.expert/explorer/testnet/contract/CC5AGFVY5D5IZKPHAXCP3I6BP36RQEKYOH3W3BOXM4IWIP4LLUB5P7AB)
+CC5AGFVY5D5IZKPHAXCP3I6BP36RQEKYOH3W3BOXM4IWIP4LLUB5P7AB
 
 ---
 
