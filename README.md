@@ -6,6 +6,8 @@ Tenant Scoring is a fully permissionless decentralized application built on Stel
 
 Unlike traditional systems, this protocol does not rely on centralized authorities — anyone can submit and view tenant reviews.
 
+<img width="1920" height="1080" alt="Screenshot from 2026-04-13 14-08-50" src="https://github.com/user-attachments/assets/f44629de-fe43-4dea-b0af-6f695046e223" />
+
 ---
 
 ## ⚙️ What It Does
